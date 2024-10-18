@@ -1,13 +1,15 @@
 <h1 align="center">Hey 👋, I'm Géraldine!</h1>
 <h3 align="center">A passionate fullstack developer student from Grenoble, France.</h3>
 
+<p>Previously, I was a leather goods and luggage artisan, working with prestigious brands like Hermès, Goyard, and Louis Vuitton. Since April 2024, I have been transitioning into tech as a student in application design and development at Campus Numérique In The Alps in Grenoble.</p>
+
 - 🔭 I’m currently working on [DnD Java Game](https://github.com/GeraldineRouy/java_dnd_game).
   
 - 🌱 I’m learning **mainly Java/Spring**, and also **Vue.js** and **PHP/Laravel**.
   
 - 💻 I have worked on [Spirulin Suppliers List](https://github.com/GeraldineRouy/public_spa_spirulin_suppliers_project).
   
-- 💻 I also contributed to [Fruits and Veggies Shop](https://github.com/GeraldineRouy/fruits-and-veggies-shop).
+- 💻 I also did this : [Fruits and Veggies Shop](https://github.com/GeraldineRouy/fruits-and-veggies-shop).
 
 - 📫 How to reach me: **geraldine.rouy@gmail.com**
 
@@ -39,8 +41,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
+</a>
+
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
