@@ -20,12 +20,14 @@
   </a>
 </p>
 
-<h3 align="left">Technologies:</h3>
+<h3 align="left">Fun Facts About Me:</h3>
+<ul>
+  <li>🎨 I'm a very creative and extremly curious person : I like to draw, paint my mini figurines, listening to music, going to concerts, fish keeping and aquascaping. 🎶🐠</li>
+  <li>🤖 My first computer was a TO7, a Thomson family computer born in 1982 ! Talk about retro computing! 🕹️</li>
+  <li>🫖 I believe that tea is the best drink for debugging—it's a cup of motivation! ☕</li>
+</ul>
 
-<h4>Product Design:</h4>
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
-</p>
+<h3 align="left">Technologies:</h3>
 
 <h4>Languages:</h4>
 <p align="left">
@@ -54,3 +56,9 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge"/>
 </p>
+
+<h4>Product Design:</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
+</p>
+
