@@ -3,13 +3,13 @@
 
 ## About Me
 
-🤩I am a passionate learner and aspiring software developer. I enjoy working on projects that challenge my skills and help me grow.🥰
+🤩I am a cheerful learner and aspiring software developer. I enjoy working on projects that challenge my skills and help me grow.🥰
 
-<p>Previously, I was a leather goods and boxes/trunks artisan, working with prestigious brands like Hermès, Goyard, and Louis Vuitton. Since April 2024, I have been transitioning into tech as a student in application design and development at Campus Numérique In The Alps in Grenoble.</p>
+👜Previously, I was a leather goods and boxes/trunks artisan, working with prestigious brands like Hermès, Goyard, and Louis Vuitton. Since April 2024, I have been transitioning into tech as a student in application design and development at Campus Numérique In The Alps in Grenoble.🏔
 
 ## Learning Journey
 
-I am currently on a learning journey in software development. As I progress, my existing repositories will evolve, and I will create new ones to showcase my growth and projects. Feel free to check back regularly to follow my progress and explore my work!
+🤓I am currently on a learning journey in software development. As I progress, my existing repositories will evolve, and I will create new ones to showcase my growth and projects. Feel free to check back regularly to follow my progress and explore my work!
 
 
 - 🔭 I’m currently working on [DnD Java Game](https://github.com/GeraldineRouy/java_dnd_game).
