@@ -7,9 +7,11 @@
   
 - 🌱 I’m learning **mainly Java/Spring**, and also **Vue.js** and **PHP/Laravel**.
   
-- 💻 I have worked on [Spirulin Suppliers List](https://github.com/GeraldineRouy/public_spa_spirulin_suppliers_project).
+- 💻 I have worked on a SPA project in Vue.js : [Spirulin Suppliers List](https://github.com/GeraldineRouy/public_spa_spirulin_suppliers_project).
   
-- 💻 I also did this : [Fruits and Veggies Shop](https://github.com/GeraldineRouy/fruits-and-veggies-shop).
+- 🍉🥦 I also did an online fruits and veggies shop using Laravel : [Fruits and Veggies Shop](https://github.com/GeraldineRouy/fruits-and-veggies-shop).
+  
+- ✊🏻✋🏻✌🏻 I enjoyed coding in JS this litte rock-paper-scissors game : [Jan-Ken Game](https://github.com/GeraldineRouy/jan-ken-js-game).
 
 - 📫 How to reach me: **geraldine.rouy@gmail.com**
 
