@@ -1,4 +1,16 @@
-<h1 align="center">Hey 👋 I'm Géraldine!</h1>
+<h2 align="center">👉🏻 Check out my ongoing personnal project !!! 👈🏻</h2>
+
+[Minecraft Plugin Template(Spigot/Java Edition)](https://github.com/GeraldineRouy/spigot_plugin_template/tree/master)
+
+I am currently working on a personal project in collaboration with others: a template for bootstrapping plugins for Minecraft Java Edition, specifically based on a Spigot server.
+
+To streamline development, I am providing a Docker microservice to simplify server deployment, as well as the deployment of plugins derived from it. This aims to make the entire process more efficient and accessible for plugin developers.
+
+The project structure is designed to follow the latest best practices in Java development, ensuring maintainability, scalability, and ease of use for anyone looking to create custom Minecraft plugins using Spigot.
+
+⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏
+
+<h1 align="center">Hey 👋🏻 I'm Géraldine!</h1>
 <h3 align="center">A passionate fullstack developer student from Grenoble, France.</h3>
 
 ## About Me
@@ -11,10 +23,10 @@
 
 🤓I am currently on a learning journey in software development. As I progress, my existing repositories will evolve, and I will create new ones to showcase my growth and projects. Feel free to check back regularly to follow my progress and explore my work!
 
-
-- 🔭 I’m currently working on [DnD Java Game](https://github.com/GeraldineRouy/java_dnd_game).
   
 - 🌱 I’m learning **mainly Java/Spring**, and also **Vue.js** and **PHP/Laravel**.
+
+- ⚔ I did a solo Turn-based Game in Java : [DnD Java Game](https://github.com/GeraldineRouy/java_dnd_game).
   
 - 💻 I have worked on a SPA project in Vue.js : [Spirulin Suppliers List](https://github.com/GeraldineRouy/public_spa_spirulin_suppliers_project).
   
