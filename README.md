@@ -1,8 +1,19 @@
-<h2 align="center">👉🏻 Check out my ongoing personnal project !!! 👈🏻</h2>
+<h2 align="center">👉🏻 Check out my 2 ongoing personnal projects !!! 👈🏻</h2>
+
+[MatchUp - Single Page Application in Vue.js](https://github.com/GeraldineRouy/match_up)
+
+<strong>A simple Gaming Tournament Tree Generator.</strong>
+
+Imagine you're chilling on the sofa with your friends, and you want to play a competitive game together. Ok, it's just for fun, but, you want to prove every one you're the best, obviously !
+So you set up a tournament together... But how to decide who is playing who, how many rounds, how many matches..?
+Good news !!! You just have to browse mathcUp, enter everyone's name, and VOILA !
+
+Start a new tournament and have fun !
+
 
 [Minecraft Plugin Template(Spigot/Java Edition)](https://github.com/GeraldineRouy/spigot_plugin_template/tree/master)
 
-I am currently working on a personal project in collaboration with others: a template for bootstrapping plugins for Minecraft Java Edition, specifically based on a Spigot server.
+I am currently working on a collaborative project : a template for bootstrapping plugins for Minecraft Java Edition, specifically based on a Spigot server.
 
 To streamline development, I am providing a Docker microservice to simplify server deployment, as well as the deployment of plugins derived from it. This aims to make the entire process more efficient and accessible for plugin developers.
 
@@ -15,13 +26,13 @@ The project structure is designed to follow the latest best practices in Java de
 
 ## About Me
 
-🤩I am a cheerful learner and aspiring software developer. I enjoy working on projects that challenge my skills and help me grow.🥰
+🤩I am a cheerful learner and aspiring fullstack software developer. I enjoy working on projects that challenge my skills and help me grow.🥰
 
 👜Previously, I was a leather goods and boxes/trunks artisan, working with prestigious brands like Hermès, Goyard, and Louis Vuitton. Since April 2024, I have been transitioning into tech as a student in application design and development at Campus Numérique In The Alps in Grenoble.🏔
 
 ## Learning Journey
 
-🤓I am currently on a learning journey in software development. As I progress, my existing repositories will evolve, and I will create new ones to showcase my growth and projects. Feel free to check back regularly to follow my progress and explore my work!
+🤓I am currently on a 21 months training in software development. As I progress, my existing repositories will evolve, and I will create new ones to showcase my growth and projects. Feel free to check back regularly to follow my progress and explore my work!
 
   
 - 🌱 I’m learning **mainly Java/Spring**, and also **Vue.js** and **PHP/Laravel**.
@@ -46,8 +57,8 @@ The project structure is designed to follow the latest best practices in Java de
 <h3 align="left">Fun Facts About Me:</h3>
 <ul>
   <li>🎨 I'm a very creative and extremly curious person : I like to draw, paint my mini figurines, listening to music, going to concerts, fish keeping and aquascaping. 🎶🐠</li>
-  <li>🤖 My first computer was a TO7, a Thomson family computer born in 1982 ! Talk about retro computing! 🕹️</li>
-  <li>🫖 I believe that tea is the best drink for debugging—it's a cup of motivation! ☕</li>
+  <li>🤖 My first computer was a TO7, a Thomson family computer born in 1982 ! Since then, I've always been fascinated by the evolution of IT tools. Talk about retro computing and retro gaming! 🕹️</li>
+  <li>🫖 I believe that tea is the best drink for debugging, and many other of my activities — it's a cup of motivation! ☕</li>
 </ul>
 
 <h3 align="left">Technologies:</h3>
@@ -72,6 +83,7 @@ The project structure is designed to follow the latest best practices in Java de
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 <h4>Others:</h4>
