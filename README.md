@@ -1,23 +1,20 @@
-<h2 align="center">👉🏻 Check out my 2 ongoing personnal projects !!! 👈🏻</h2>
+<h2 align="center">👉🏻 Check out my 2 ongoing personnal projects!!! 👈🏻</h2>
 
 [MatchUp - Single Page Application in Vue.js](https://github.com/GeraldineRouy/match_up)
 
 <strong>A simple Gaming Tournament Tree Generator.</strong>
 
-Imagine you're chilling on the sofa with your friends, and you want to play a competitive game together. Ok, it's just for fun, but, you want to prove every one you're the best, obviously !
-So you set up a tournament together... But how to decide who is playing who, how many rounds, how many matches..?
-Good news !!! You just have to browse mathcUp, enter everyone's name, and VOILA !
+Imagine you're chilling on the sofa with your friends and you want to play a competitive game together; it IS just for fun but still, you want to prove everyone you're the best! So you set up a tournament together... Now you need to decide who is playing who, how many rounds, how many matches... that’s easy: browse matchUp, enter everyone's name, and VOILA! 
 
-Start a new tournament and have fun !
+Start a new tournament and have fun!
 
 
 [Minecraft Plugin Template(Spigot/Java Edition)](https://github.com/GeraldineRouy/spigot_plugin_template/tree/master)
 
-I am currently working on a collaborative project : a template for bootstrapping plugins for Minecraft Java Edition, specifically based on a Spigot server.
+I am currently working on a collaborative project: a template for bootstrapping plugins for Minecraft Java Edition, specifically based on a Spigot server. This tool aims to facilitate the entire process for future developers. A Docker microservice has already been setup to simplify server deployment, as well as the deployment of plugins derived from it.
 
-To streamline development, I am providing a Docker microservice to simplify server deployment, as well as the deployment of plugins derived from it. This aims to make the entire process more efficient and accessible for plugin developers.
+The project structure is designed to follow the latest best practices in Java development; this keeps it easy to maintain, scale and use for anyone looking to create custom Minecraft plugins using Spigot.
 
-The project structure is designed to follow the latest best practices in Java development, ensuring maintainability, scalability, and ease of use for anyone looking to create custom Minecraft plugins using Spigot.
 
 ⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏
 
@@ -26,24 +23,24 @@ The project structure is designed to follow the latest best practices in Java de
 
 ## About Me
 
-🤩I am a cheerful learner and aspiring fullstack software developer. I enjoy working on projects that challenge my skills and help me grow.🥰
+🤩I'm an enthusiastic learner and I'm aiming to become a full-stack software developer. I enjoy working on projects that test my skills and give me the opportunity to improve.🥰
 
-👜Previously, I was a leather goods and boxes/trunks artisan, working with prestigious brands like Hermès, Goyard, and Louis Vuitton. Since April 2024, I have been transitioning into tech as a student in application design and development at Campus Numérique In The Alps in Grenoble.🏔
+👜I used to work as a leather goods and trunk artisan for prestigious brands such as Hermès, Goyard and Louis Vuitton. I'm currently on a work-study program (since April 2024) to obtain a Bachelor's Degree as an application developer at the Campus Numérique In The Alps in Grenoble. 🏔
 
-## Learning Journey
+## Ongoing education
 
-🤓I am currently on a 21 months training in software development. As I progress, my existing repositories will evolve, and I will create new ones to showcase my growth and projects. Feel free to check back regularly to follow my progress and explore my work!
+🤓I am currently on a 21-month training programme in software development. Feel free to check back regularly to follow my evolving repositories and explore my work!
 
   
 - 🌱 I’m learning **mainly Java/Spring**, and also **Vue.js** and **PHP/Laravel**.
 
-- ⚔ I did a solo Turn-based Game in Java : [DnD Java Game](https://github.com/GeraldineRouy/java_dnd_game).
+- ⚔ I did a solo Turn-based Game in Java: [DnD Java Game](https://github.com/GeraldineRouy/java_dnd_game).
   
-- 💻 I have worked on a SPA project in Vue.js : [Spirulin Suppliers List](https://github.com/GeraldineRouy/public_spa_spirulin_suppliers_project).
+- 💻 I have worked on a SPA project in Vue.js: [Spirulin Suppliers List](https://github.com/GeraldineRouy/public_spa_spirulin_suppliers_project).
   
-- 🍉🥦 I also did an online fruits and veggies shop using Laravel : [Fruits and Veggies Shop](https://github.com/GeraldineRouy/fruits-and-veggies-shop).
+- 🍉🥦 I also did an online fruits and veggies shop using Laravel: [Fruits and Veggies Shop](https://github.com/GeraldineRouy/fruits-and-veggies-shop).
   
-- ✊🏻✋🏻✌🏻 I enjoyed coding in JS this litte rock-paper-scissors game : [Jan-Ken Game](https://github.com/GeraldineRouy/jan-ken-js-game).
+- ✊🏻✋🏻✌🏻 I enjoyed coding in JS this simple rock-paper-scissors game: [Jan-Ken Game](https://github.com/GeraldineRouy/jan-ken-js-game).
 
 - 📫 How to reach me: **geraldine.rouy@gmail.com**
 
@@ -57,7 +54,7 @@ The project structure is designed to follow the latest best practices in Java de
 <h3 align="left">Fun Facts About Me:</h3>
 <ul>
   <li>🎨 I'm a very creative and extremly curious person : I like to draw, paint my mini figurines, listening to music, going to concerts, fish keeping and aquascaping. 🎶🐠</li>
-  <li>🤖 My first computer was a TO7, a Thomson family computer born in 1982 ! Since then, I've always been fascinated by the evolution of IT tools. Talk about retro computing and retro gaming! 🕹️</li>
+  <li>🤖 My first computer was a TO7, a Thomson family computer created in 1982! Since then, I've always been fascinated by the evolution of IT tools. Let's talk about retro computing and retro gaming! 🕹️</li>
   <li>🫖 I believe that tea is the best drink for debugging, and many other of my activities — it's a cup of motivation! ☕</li>
 </ul>
 
