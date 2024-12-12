@@ -16,7 +16,7 @@ I am currently working on a collaborative project: a template for bootstrapping 
 The project structure is designed to follow the latest best practices in Java development; this keeps it easy to maintain, scale and use for anyone looking to create custom Minecraft plugins using Spigot.
 
 
-⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏
+⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏⛏
 
 <h1 align="center">Hey 👋🏻 I'm Géraldine!</h1>
 <h3 align="center">A passionate fullstack developer student from Grenoble, France.</h3>
